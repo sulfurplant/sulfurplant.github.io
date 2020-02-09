@@ -19,12 +19,12 @@
 # in the templates via {{ site.myvariable }}.
 
 title: sulfur plant
-email: sulfurplant@example.com
+email: sulfurplantc@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   想被人看见，但是不想被太多人看见。想被批评，但是不想被审查。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: sulfurplant
+#twitter_username: sulfurplant
 github_username:  sulfurplant
 
 # Build settings
